@@ -7,3 +7,11 @@ Prima di partire a scrivere codice poniamoci qualche domanda:
 Come faccio a sapere se un numero è divisibile per?
 Abbiamo visto qualcosa di particolare che possiamo usare?
 */
+
+
+/* stampare i numeri da 1 a 100 con un ciclo for*/
+for(let i = 1; i <= 100; i++ ){
+
+   /* utilizziamo la condizione if per controllare i 3 casi */
+    if()
+}
